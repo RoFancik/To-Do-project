@@ -62,7 +62,7 @@ To-Do-project/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your_username/To-Do-project.git
+git clone https://github.com/RoFancik/To-Do-project.git
 cd To-Do-project
 pip install -r requirements.txt
 python main.py
