@@ -64,7 +64,7 @@ To-Do-project/
 ```bash
 git clone https://github.com/your_username/To-Do-project.git
 cd To-Do-project
-pip install colorama
+pip install -r requirements.txt
 python main.py
 ```
 
